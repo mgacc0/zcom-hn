@@ -1,4 +1,4 @@
-# zara.com Hacker News Clone
+# Hacker News Clone (prueba1)
 
 HackerNews clone built with [Nuxt.js](https://nuxtjs.org).
 
